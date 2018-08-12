@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Integerous/Integerous.github.io.git
+	branch = master
