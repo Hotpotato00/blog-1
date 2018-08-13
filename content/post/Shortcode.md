@@ -1,8 +1,8 @@
 ---
 draft: false
 date: 2018-08-13T22:32:32+09:00
-title: "Shortcode 테스트 "
-slug:
+title: "Shortcode 테스트"
+slug: "shortcode"
 categories: ["ETC"]
 tags: ["hugo", "shortcode"]
 ---
