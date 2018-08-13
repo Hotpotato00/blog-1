@@ -8,4 +8,4 @@ tags: ["hugo", "shortcode"]
 ---
 Shortcode 테스트
 
-{{< youtube PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&index=10 >}}
+{{< youtube sAOhdtTVteo >}}
