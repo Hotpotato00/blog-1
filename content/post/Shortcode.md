@@ -1,0 +1,11 @@
+---
+draft: false
+date: 2018-08-13T22:32:32+09:00
+title: "Shortcode"
+slug:
+categories: ["ETC"]
+tags: ["hugo", "shortcode"]
+---
+Shortcode 테스트
+
+{{< youtube PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&index=10 >}}
