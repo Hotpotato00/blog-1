@@ -25,7 +25,7 @@ disqusShortname = ""
         facebook = true
         # tumblr   = true
         # hatena   = true # hatena is Japanese social media
-        google   = true
+        # google   = true
         # pocket   = true
         # Please set id when you want to display facebook
         # facebookAppId = "your app id"
@@ -37,3 +37,8 @@ disqusShortname = ""
         # 2. Please set file path name omitted "layouts/partials"
         # sidebar = "adsense/sidebar.html"
         # content = "adsense/content.html"
+
+# [taxonomies]
+#    tag = "tags"
+#    category = "categories"
+#    mood = "moods"
