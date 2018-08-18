@@ -4,6 +4,7 @@ title = "Integerous 개발블로그"
 theme= "hugo-theme-geppaku"
 googleAnalytics = ""
 disqusShortname = ""
+
 pygmentsCodefencesGuessSyntax = "true"
 
 [author]
