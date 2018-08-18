@@ -118,14 +118,14 @@ Hugo
 2. [Utterance document](https://utteranc.es/)에서 방금 만든 저장소를 입력하고(나의 경우 Integerous/blog-comments)
 3. 블로그 글과 Github 이슈를 매핑할 방법 6가지 중 한 가지를 선택하면
 4. 밑에 아래와 같은 script를 자동으로 생성해준다.  
-```html
+{{< highlight html >}}
 <script src="https://utteranc.es/client.js"
         repo="integerous/blog-comments"
         issue-term="pathname"
         crossorigin="anonymous"
         async>
 </script>
-```
+{{< /highlight >}}
 5. 위의 script를 본인의 블로그 템플릿중 원하는 위치에 넣으면
 6. 끝!
 
