@@ -60,6 +60,7 @@ Hugo
 >나도 멋깔나게 `$ brew install hugo`를 mac 터미널에 입력해서 설치하고 싶었다.  
 >하지만 현실은 WINDOWS...  
 >Giraffe Academy의 [Windows에서 Hugo설치하기](https://gohugo.io/getting-started/installing#windows) 이 영상 하나면 설치는 쉽다. (젊은 형아가 영어로 설명해줌)
+
 - [hugo 공식 깃헙](https://github.com/gohugoio/hugo/releases)에서 운영체제에 맞는 최신버전 다운로드
 - `C:\Hugo\bin` 디렉토리 생성해서 다운받은 압축파일 해제
 - 어느 위치에서나 Hugo가 실행될 수 있도록`$ set PATH=%PATH%;C:\Hugo\bin` 명령으로 환경변수에 `C:\Hugo\bin`추가
@@ -117,7 +118,7 @@ Hugo
 2. [Utterance document](https://utteranc.es/)에서 방금 만든 저장소를 입력하고(나의 경우 Integerous/blog-comments)
 3. 블로그 글과 Github 이슈를 매핑할 방법 6가지 중 한 가지를 선택하면
 4. 밑에 아래와 같은 script를 자동으로 생성해준다.
-    ```javascript
+    ```
     <script src="https://utteranc.es/client.js"
             repo="integerous/blog-comments"
             issue-term="pathname"
@@ -128,7 +129,6 @@ Hugo
 5. 위의 script를 본인의 블로그 템플릿중 원하는 위치에 넣으면
 6. 끝!
 
-#### h4 테스트
 
 ## *Reference
 - [Hosting on Github](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
