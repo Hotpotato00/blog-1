@@ -9,6 +9,8 @@ pygmentsCodeFences = "true"
 
 hasCJKLanguage = "true"
 paginate = "5"
+paginatePath = "side"
+newContentEditor = "Code"
 
 [author]
     # If you want to display author information set these
