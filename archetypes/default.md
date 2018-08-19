@@ -2,7 +2,7 @@
 draft: false
 date: {{ .Date }}
 title: "{{ replace .Name "-" " " | title }}"
-slug:
+slug: "{{ replace .Name "-" " " | title }}"
 categories: [""]
 tags: [""]
 ---
