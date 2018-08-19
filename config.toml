@@ -4,15 +4,16 @@ title = "Integerous 개발블로그"
 theme= "hugo-theme-geppaku"
 googleAnalytics = ""
 disqusShortname = ""
-pygmentsStyle = "trac"
-pygmentsCodeFences = "true"
+    # pygmentsStyle = "trac"
+    # pygmentsCodeFences = "true"
+pygmentsCodeFencesGuessSyntax = "true"
 
 hasCJKLanguage = "true"
 paginate = "5"
-paginatePath = "side"
 newContentEditor = "Code"
 enableEmoji = "true"
 enableGitInfo = "true"
+toc = "true"
 
 [author]
     # If you want to display author information set these
