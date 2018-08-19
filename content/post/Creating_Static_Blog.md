@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2018-08-12T20:48:55+09:00
-title: "Creating_Static_Blog"
+title: "Hugo 블로그 만들기"
 slug: "Creating_Static_Blog"
 categories: ["ETC"]
 tags: ["Hugo","Static Site Generator","github","휴고","블로그","Jekyll","블로그 만들기"]
@@ -105,7 +105,7 @@ Hugo
   - `$ git commit -m "커밋메세지"`
   - `$ git push origin master`
 
-# 5. Github 스타일 댓글 기능 추가하기
+## 5. Github 스타일 댓글 기능 추가하기
 >[아웃사이더님의 블로그 글](https://blog.outsider.ne.kr/1356?category=1)을 참고하여 적용했다.  
 
 ### 5.1. 작동 원리
