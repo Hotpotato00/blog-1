@@ -16,7 +16,7 @@ PygmentsCodeFences = "true"
     twitter  = "integerous"
     linkedin = "integerous"
     github   = "integerous"
-    # tumblr   = "your tumblr id"
+    instagram   = "ryemha_"
 
 [params]
     [params.sharebutton]
