@@ -98,7 +98,8 @@ Hugo
 ### 4.1. Hugo 설치
 >나도 멋깔나게 `$ brew install hugo`를 mac 터미널에 입력해서 설치하고 싶었다.  
 >하지만 현실은 WINDOWS...  
->Giraffe Academy의 [Windows에서 Hugo설치하기](https://gohugo.io/getting-started/installing#windows) 이 영상 하나면 설치는 쉽다. (젊은 형아가 영어로 설명해줌)
+>Giraffe Academy의 [Windows에서 Hugo설치하기](https://gohugo.io/getting-started/installing#windows) 이 영상 하나면 설치는 쉽다. (젊은 형아가 영어로 설명해줌)  
+
 - [hugo 공식 깃헙](https://github.com/gohugoio/hugo/releases)에서 운영체제에 맞는 최신버전 다운로드
 - `C:\Hugo\bin` 디렉토리 생성해서 다운받은 압축파일 해제
 - 어느 위치에서나 Hugo가 실행될 수 있도록`$ set PATH=%PATH%;C:\Hugo\bin` 명령으로 환경변수에 `C:\Hugo\bin`추가
@@ -149,7 +150,8 @@ Hugo
 
 ### 5.1. Hugo Docs에서 내 Pull Request 받아줌!!!
 >생애 첫 오픈소스 기여! (매우 소소한 기여지만.. 오픈소스에 기여하기 시작했다는 사실만으로 햄볶!!)
-  ![](https://github.com/Integerous/TIL/blob/master/ETC/images/myfirstPR.png?raw=true)
+
+![](https://github.com/Integerous/TIL/blob/master/ETC/images/myfirstPR.png?raw=true)
 ### 5.2. 작동 원리
 [Utterance 프로젝트](https://utteranc.es/)의 작동 방식을 소개하자면,  
 [Github의 이슈 검색 API](https://developer.github.com/v3/search/#search-issues)를 사용해서 각 글에 해당하는 이슈가 생성되고(최초 댓글 작성 시),  
