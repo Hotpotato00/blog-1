@@ -22,3 +22,5 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+# blog 저장소 Commit & Push
