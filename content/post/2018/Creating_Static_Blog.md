@@ -146,8 +146,8 @@ Hugo
   {{< /highlight >}}
 
 # 5. Utterences (Github 댓글 위젯) 추가하기
->[아웃사이더님의 블로그 글](https://blog.outsider.ne.kr/1356?category=1)에서 Utterences의 존재를 알게 되었다.
->>Hugo 공식 문서에 소개된 댓글 위젯 중 Utterences는 없길래 생애 처음으로 오픈소스에 PR을 날려봄!!
+>[아웃사이더님의 블로그 글](https://blog.outsider.ne.kr/1356?category=1)에서 Utterences의 존재를 알게 되었다.  
+>Hugo 공식 문서에 소개된 댓글 위젯 중 Utterences는 없길래 생애 처음으로 오픈소스에 PR을 날려봄!!
 
 ### 5.1. Hugo Docs에서 내 Pull Request 받아줌!!!
 >생애 첫 오픈소스 기여! (매우 소소한 기여지만.. 오픈소스에 기여하기 시작했다는 사실만으로 햄볶!!)  
