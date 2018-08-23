@@ -106,7 +106,7 @@ Hugo
 
 ### 4.8. 쉘 스크립트로 업로드 자동화하기
 - [Hugo Docs](http://gohugo.io/tutorials/github-pages-blog/)의 deploy.sh 파일을 활용하여 쉘스크립트 작성
-  ```sh
+  ```go-html-template
   #!/bin/bash
 
   echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
