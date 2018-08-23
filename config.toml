@@ -5,7 +5,7 @@ theme= "hugo-theme-geppaku"
 googleAnalytics = ""
 disqusShortname = ""
 pygmentsUseClassic ="true"
-pygmentsStyle = "monokai"
+pygmentsStyle = "manni"
 pygmentsCodeFences = "true"
     # pygmentsCodeFencesGuessSyntax = "true"
 
