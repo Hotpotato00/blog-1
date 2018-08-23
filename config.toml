@@ -7,7 +7,7 @@ disqusShortname = ""
 pygmentsUseClassic ="true"
 pygmentsStyle = "manni"
 pygmentsCodeFences = "true"
-    # pygmentsCodeFencesGuessSyntax = "true"
+pygmentsCodeFencesGuessSyntax = "true"
 
 hasCJKLanguage = "true"
 paginate = "5"

@@ -4,14 +4,13 @@ date: 2018-08-12T20:48:55+09:00
 title: "Hugo로 블로그 만들기"
 slug: "Creating_Static_Blog"
 categories: ["2018", "ETC"]
-tags: ["Hugo","Static Site Generator","github","휴고"]
+tags: ["hugo","github","static","blog"]
 
 ---
 
-# 정적 블로그 만들기 (feat. Hugo & Github Page)
 >주소가 github.io인 개발 블로그들이 눈에 많이 띄었다.  
->그래서 찾아 헤매던 도중 Jekyll, Hexo, Hugo 등 Static Site Generator의 존재를 알게 되었다.  
->Static Site Generator와 Github Page의 조합으로 Devlog로 사용할 개인 블로그를 만들기로 했다.  
+>찾아보니 Jekyll, Hexo, Hugo 등 Static Site Generator의 존재를 알게 되었다.  
+>Hugo와 Github Page의 조합으로 Devlog로 사용할 [개인 블로그](https://ryan-han.com)를 만들기로 했다.  
 >놀다 지친 여름휴가 막바지에 집중공략을 시작했다.
 
 ## 1. Static Site Generator 란?
@@ -25,7 +24,7 @@ Jekyll
   -루비 기반
   -현재 가장 인기 있음(깃헙 별 수 제일 많음)
   -한글 레퍼런스도 제일 많음
-  -느리다는 제보가 많음(몇 십개의 포스팅 뿐인데도 빌드 한번 다시 하는데 5분씩 걸린다고)
+  -느리다는 제보가 많음 (빌드 한번 다시 하는데 5분씩 걸린다고)
   -윈도우 공식 지원 안됨
 
 Hexo
@@ -52,7 +51,7 @@ Hugo
   - Hugo는 런타임에 다른 의존성이 필요하지 않아 빌드시간이 세계에서 제일 빠르다. ("Hugo is the world’s fastest static website engine.")
   - Hugo는 한글 Reference가 거의 없는 오픈소스이며 Jekyll에 비해 기여할 수 있는 여지가 남아있다. 즉, ***오픈소스에 기여할 기회 !!***
 
-### 3.2. [CloudZ Labs](http://tech.cloudz-labs.io/posts/hugo/hugo/)에서 Github Page와 환상의 조합인 Jekyll 대신 Hugo를 선택한 이유
+### 3.2. [CloudZ Labs](http://tech.cloudz-labs.io/posts/hugo/hugo/)에서 Hugo를 선택한 이유
   - Jekyll을 사용할 경우, 별도의 Build 과정 없이 Repository에 Push만으로 작성한 글들이 알아서 Publishing됩니다. 하지만, 글이 많아질 수록 Jekyll의 빌드 성능은 현저하게 저하됩니다. 하지만, Hugo는 Build 과정이 있어도 성능저하 없이, 빠르게 글을 Publishing할 수 있습니다. Go나 기타 종속성 없이, Hugo CLI를 통해서 쉽게 블로그 및 글을 생성할 수 있습니다. 그래서, Hugo로 블로그를 만들게 되었습니다.
 
 ## 4. Hugo + Github Page 만드는 과정
@@ -60,8 +59,9 @@ Hugo
 ### 4.1. Hugo 설치
 >나도 멋깔나게 `$ brew install hugo`를 mac 터미널에 입력해서 설치하고 싶었다.  
 >하지만 현실은 WINDOWS...  
->Giraffe Academy의 [Windows에서 Hugo설치하기](https://gohugo.io/getting-started/installing#windows) 이 영상 하나면 설치는 쉽다. (젊은 형아가 영어로 설명해줌)
-- [hugo 공식 깃헙](https://github.com/gohugoio/hugo/releases)에서 운영체제에 맞는 최신버전 다운로드
+>Giraffe Academy의 [Windows에서 Hugo설치하기](https://gohugo.io/getting-started/installing#windows) 이 영상 하나면 설치는 쉽다. (젊은 형아가 영어로 설명해줌)  
+
+- [Hugo 공식 깃헙](https://github.com/gohugoio/hugo/releases)에서 운영체제에 맞는 최신버전 다운로드
 - `C:\Hugo\bin` 디렉토리 생성해서 다운받은 압축파일 해제
 - 어느 위치에서나 Hugo가 실행될 수 있도록`$ set PATH=%PATH%;C:\Hugo\bin` 명령으로 환경변수에 `C:\Hugo\bin`추가
 - 명령 프롬프트에 `$ hugo version` 혹은 `$ hugo help`로 동작 확인
@@ -106,7 +106,7 @@ Hugo
 
 ### 4.8. 쉘 스크립트로 업로드 자동화하기
 - [Hugo Docs](http://gohugo.io/tutorials/github-pages-blog/)의 deploy.sh 파일을 활용하여 쉘스크립트 작성
-  {{< highlight sh >}}
+  {{< highlight >}}
   #!/bin/bash
 
   echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
@@ -169,7 +169,7 @@ Hugo
             crossorigin="anonymous"
             async>
     </script>{{< /highlight >}}
-    
+
 5. 위의 script를 본인의 블로그 템플릿중 원하는 위치에 넣으면
 6. 끝!  
 
