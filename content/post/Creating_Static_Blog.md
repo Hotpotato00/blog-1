@@ -168,8 +168,8 @@ Hugo
             issue-term="pathname"
             crossorigin="anonymous"
             async>
-    </script>
-    {{< /highlight >}}
+    </script>{{< /highlight >}}
+    
 5. 위의 script를 본인의 블로그 템플릿중 원하는 위치에 넣으면
 6. 끝!  
 
