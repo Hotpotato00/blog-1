@@ -5,7 +5,7 @@ theme= "hugo-theme-geppaku"
 googleAnalytics = ""
 disqusShortname = ""
 pygmentsUseClassic ="true"
-pygmentsStyle = "trac"
+# pygmentsStyle = "trac"
 pygmentsCodeFences = "true"
     # pygmentsCodeFencesGuessSyntax = "true"
 
