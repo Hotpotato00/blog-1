@@ -3,7 +3,7 @@ draft: false
 date: 2018-08-24T03:57:22+09:00
 title: "2016년 발리 서핑"
 slug: "Bali"
-categories: ["2018", "thoughts"]
+categories: ["thoughts"]
 tags: ["thougths"]
 ---
 2016년 7월 19일  

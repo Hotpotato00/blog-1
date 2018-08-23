@@ -3,7 +3,7 @@ draft: false
 date: 2018-08-24T04:15:05+09:00
 title: "대학교 4학년"
 slug: "4thGrade"
-categories: ["2018", "thoughts"]
+categories: ["thoughts"]
 tags: ["thoughts"]
 ---
 2016년 1월 21일  
