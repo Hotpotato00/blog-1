@@ -106,7 +106,7 @@ Hugo
 
 ### 4.8. 쉘 스크립트로 업로드 자동화하기
 - [Hugo Docs](http://gohugo.io/tutorials/github-pages-blog/)의 deploy.sh 파일을 활용하여 쉘스크립트 작성
-  {{< highlight >}}
+  {{< highlight script >}}
   #!/bin/bash
 
   echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
@@ -150,7 +150,8 @@ Hugo
 >>Hugo 공식 문서에 소개된 댓글 위젯 중 Utterences는 없길래 생애 처음으로 오픈소스에 PR을 날려봄!!
 
 ### 5.1. Hugo Docs에서 내 Pull Request 받아줌!!!
->생애 첫 오픈소스 기여! (매우 소소한 기여지만.. 오픈소스에 기여하기 시작했다는 사실만으로 햄볶!!)
+>생애 첫 오픈소스 기여! (매우 소소한 기여지만.. 오픈소스에 기여하기 시작했다는 사실만으로 햄볶!!)  
+
   ![](https://github.com/Integerous/TIL/blob/master/ETC/images/myfirstPR.png?raw=true)
 ### 5.2. 작동 원리
 [Utterance 프로젝트](https://utteranc.es/)의 작동 방식을 소개하자면,  
