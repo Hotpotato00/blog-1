@@ -90,7 +90,11 @@ Hugo
   - 이렇게 함으로써 `hugo` 명령으로 `public`에 웹사이트를 만들 때, 만들어진 `public` 디렉토리는 다른 remote origin을 가질 것이다.
 
 ### 4.6. 컨텐츠 생성
-- `$ hugo new post/test1.md` 명령으로 파일을 생성하면 `\content\post\test1.md`
+- `C:\Hugo\blog` 디렉토리에서 `$ hugo new post/test1.md` 명령으로 파일을 생성하면 `\content\post\` 디렉토리에 `test1.md` 파일이 생성된다.
+- 파일 생성 명령에 자동으로 편집기(나의 경우 VSCode)가 실행되도록 하려면
+    1. `config.toml` 파일에 `newContentEditor = "실행파일 파일명"` 를 설정해준다.
+    2. 실행파일 파일명이 Code.exe 면 `newContentEditor = "Code"` 라고 작성.
+    3. 시스템 환경변수에 VS Code 실행파일이 있는 경로를 추가해준다. (필수!)
 
 ### 4.7. 컨텐츠 업로드 (블로그에)
 - `C:\Hugo\blog`로 이동
