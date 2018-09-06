@@ -3,8 +3,8 @@ draft: false
 date: 2018-08-24T04:56:25+09:00
 title: "뜨거운 침대"
 slug: "HotBed"
-categories: ["thoughts"]
-tags: ["thoughts"]
+categories: ["essay"]
+tags: ["essay"]
 ---
 2012년 7월 27일 (전역 2주 후)  
 
