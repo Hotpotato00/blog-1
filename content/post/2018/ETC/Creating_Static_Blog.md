@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2018-08-12T20:48:55+09:00
-title: "Hugo로 블로그 만들기"
+title: "Hugo로 github.io 블로그 만들기"
 slug: "Creating_Static_Blog"
 categories: ["2018", "ETC"]
 tags: ["hugo","github","static","blog"]
