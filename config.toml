@@ -6,7 +6,7 @@ googleAnalytics = ""
 disqusShortname = ""
 
 # pygmentsUseClassic ="true"
-pygmentsStyle = "solarized-light"
+pygmentsStyle = "dracula"
 pygmentsCodeFences = "true"
 # pygmentsCodeFencesGuessSyntax = "true"
 
