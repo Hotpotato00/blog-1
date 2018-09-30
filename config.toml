@@ -6,9 +6,9 @@ googleAnalytics = ""
 disqusShortname = ""
 
 # pygmentsUseClassic ="true"
-pygmentsStyle = "monokai"
+pygmentsStyle = "solarized-dark256"
 pygmentsCodeFences = "true"
-pygmentsCodeFencesGuessSyntax = "true"
+# pygmentsCodeFencesGuessSyntax = "true"
 
 hasCJKLanguage = "true"
 paginate = "5"
