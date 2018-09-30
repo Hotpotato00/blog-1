@@ -4,8 +4,9 @@ title = "Integerous Devlog"
 theme= "hugo-theme-geppaku"
 googleAnalytics = ""
 disqusShortname = ""
+
 # pygmentsUseClassic ="true"
-pygmentsStyle = "solarized-dark"
+pygmentsStyle = "monokai"
 pygmentsCodeFences = "true"
 # pygmentsCodeFencesGuessSyntax = "true"
 
