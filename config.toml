@@ -6,7 +6,7 @@ googleAnalytics = ""
 disqusShortname = ""
 
 # pygmentsUseClassic ="true"
-pygmentsStyle = "perldoc"
+pygmentsStyle = "native"
 pygmentsCodeFences = "true"
 # pygmentsCodeFencesGuessSyntax = "true"
 
