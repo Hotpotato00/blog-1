@@ -6,7 +6,7 @@ googleAnalytics = ""
 disqusShortname = ""
 
 # pygmentsUseClassic ="true"
-pygmentsStyle = "vim"
+pygmentsStyle = "vs"
 pygmentsCodeFences = "true"
 # pygmentsCodeFencesGuessSyntax = "true"
 
