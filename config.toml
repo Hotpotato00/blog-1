@@ -8,7 +8,7 @@ disqusShortname = ""
 # pygmentsUseClassic ="true"
 pygmentsStyle = "monokai"
 pygmentsCodeFences = "true"
-# pygmentsCodeFencesGuessSyntax = "true"
+pygmentsCodeFencesGuessSyntax = "true"
 
 hasCJKLanguage = "true"
 paginate = "5"
