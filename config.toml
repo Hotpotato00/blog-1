@@ -2,7 +2,7 @@ baseurl = "http://integerous.github.io/"
 languageCode = "ko-kr"
 title = "Integerous Devlog"
 theme= "hugo-theme-geppaku"
-googleAnalytics = ""
+googleAnalytics = "UA-126908369-1"
 disqusShortname = ""
 
 # pygmentsUseClassic ="true"
