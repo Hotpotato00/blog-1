@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2018-08-25T21:44:50+09:00
-title: "AWS EBS 내용 정리"
+title: "AWS EBS 총정리"
 slug: "EBS"
 categories: ["2018", "AWS"]
 tags: ["AWS", "EBS"]
