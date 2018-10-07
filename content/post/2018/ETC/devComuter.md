@@ -20,3 +20,4 @@ tags: ["etc"]
 - [신입개발자와 일하는 법](http://yookeun.github.io/think/2016/02/05/think-howwork/)
 - [[Java] for문을 Stream.forEach()로 바꾸지 말아야 할 3가지 이유](http://bit.ly/2y9F6Gu)
 - [24년차 개발자 우아한형제들의 김민태님 이야기 (영상)](https://www.facebook.com/tyzapzi/videos/481371182337888/UzpfSTEwMDAwMTQ4MDE4NjMzMzoxOTM0MTcwNTc2NjQyMjYz/?id=100001480186333)
+- [[Javascript] 2016년에 자바스크립트를 배우는 기분 (번역본)](http://www.looah.com/article/view/2054)
