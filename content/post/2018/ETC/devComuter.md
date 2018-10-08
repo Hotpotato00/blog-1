@@ -13,9 +13,9 @@ tags: ["etc"]
 
 
 # { History }
-### 2018년 10월
-- [Java 유로화 이슈가 잘 정리된 글](http://bit.ly/2A03WKx)
-- [비전공자를 채용하고 성장을 돕는 8퍼센트 CTO 이호성님 글](http://bit.ly/2C2G6yV)
+### 2018년 10월 8일
+1. [Java 유료화 이슈가 잘 정리된 글](http://bit.ly/2A03WKx)
+2. [비전공자를 채용하고 성장을 돕는 8퍼센트 CTO 이호성님 글](http://bit.ly/2C2G6yV)
 - [신규 Web 서비스시 고려해 볼 사항 - 우아한형제들 권남님 글](http://bit.ly/2y7vPib)
 - [신입개발자와 일하는 법](http://bit.ly/2zZpPcP)
 - [for문을 Stream.forEach()로 바꾸지 말아야 할 3가지 이유](http://bit.ly/2y9F6Gu)
@@ -28,3 +28,8 @@ tags: ["etc"]
 - [소켓 Close_wait, Time_wait  분석](http://bit.ly/2QzDnkI)
 - [넷플릭스가 AWS로 이전한 과정](http://bit.ly/2PlJZmo)
 - [개발자에서 개발팀장이 되기까지 겪은 5가지 실수 (번역글)](http://bit.ly/2C3ABAb)
+
+### 2018년 10월 9일
+- [아주 거대한 (자바스크립트) 어플리케이션 구축하기 (번역글)](http://bit.ly/2RADHRC)
+- [스타트업이 디자인 시스템을 만들어야 하는 이유](http://bit.ly/2ynKZ2f)
+- [미니멀 UI의 차기 트렌드 '컴플렉션 리덕션'](http://bit.ly/2RBMNxA)
