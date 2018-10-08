@@ -14,8 +14,8 @@ tags: ["etc"]
 
 # { History }
 ### 2018년 10월 8일
-1. [Java 유료화 이슈가 잘 정리된 글](http://bit.ly/2A03WKx)
-2. [비전공자를 채용하고 성장을 돕는 8퍼센트 CTO 이호성님 글](http://bit.ly/2C2G6yV)
+- [Java 유료화 이슈가 잘 정리된 글](http://bit.ly/2A03WKx)
+- [비전공자를 채용하고 성장을 돕는 8퍼센트 CTO 이호성님 글](http://bit.ly/2C2G6yV)
 - [신규 Web 서비스시 고려해 볼 사항 - 우아한형제들 권남님 글](http://bit.ly/2y7vPib)
 - [신입개발자와 일하는 법](http://bit.ly/2zZpPcP)
 - [for문을 Stream.forEach()로 바꾸지 말아야 할 3가지 이유](http://bit.ly/2y9F6Gu)
