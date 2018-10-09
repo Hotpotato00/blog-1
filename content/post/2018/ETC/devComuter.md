@@ -14,7 +14,7 @@ tags: ["etc"]
 
 # { History }
 ### 2018년 10월 8일
-- [Java 유료화 이슈가 잘 정리된 글](http://bit.ly/2A03WKx)
+- [Java 유료 논쟁, Oracle JDK와 Open JDK 차이 정리](http://bit.ly/2A03WKx)
 - [비전공자를 채용하고 성장을 돕는 8퍼센트 CTO 이호성님 글](http://bit.ly/2C2G6yV)
 - [신규 Web 서비스시 고려해 볼 사항 - 우아한형제들 권남님 글](http://bit.ly/2y7vPib)
 - [신입개발자와 일하는 법](http://bit.ly/2zZpPcP)
@@ -25,7 +25,7 @@ tags: ["etc"]
 - [데이터모델링의 기초 정리](http://bit.ly/2Pmdd4C)
 - [React 와 Vue로 똑같은 앱 만들고 비교 (번역글)](http://bit.ly/2NugsFq)
 - [Java 날짜와 시간 API의 문제점과 JDK8에서 개선된 부분](http://bit.ly/2C4ezNT)
-- [소켓 Close_wait, Time_wait  분석](http://bit.ly/2QzDnkI)
+- [소켓 Close_wait, Time_wait 분석](http://bit.ly/2QzDnkI)
 - [넷플릭스가 AWS로 이전한 과정](http://bit.ly/2PlJZmo)
 - [개발자에서 개발팀장이 되기까지 겪은 5가지 실수 (번역글)](http://bit.ly/2C3ABAb)
 
@@ -33,3 +33,11 @@ tags: ["etc"]
 - [아주 거대한 (자바스크립트) 어플리케이션 구축하기 (번역글)](http://bit.ly/2RADHRC)
 - [스타트업이 디자인 시스템을 만들어야 하는 이유](http://bit.ly/2ynKZ2f)
 - [미니멀 UI의 차기 트렌드 '컴플렉션 리덕션'](http://bit.ly/2RBMNxA)
+- [React.js로 시작하는 멀티플랫폼 개발하기 (슬라이드)](http://bit.ly/2C3SNJW)
+- [AI 기술로 스케치를 HTML 코드로 변환해주는 Sketch2Code](http://bit.ly/2zZCxrX)
+- [React.js 초간단 설명](http://bit.ly/2Pled9a)
+- [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](http://bit.ly/2zZ0dNg)
+- [모바일 디자인할 때 그리드 시스템 꼭 사용해야 할까?](http://bit.ly/2yrPNDB)
+- [정적 분석으로 자바스크립트 코드의 오류와 코드 스멜 찾기 1편](http://bit.ly/2OKquH7)
+- [Material 디자인의 밀도에 대한 설명](http://bit.ly/2C4N0nx)
+- [키오스크 UI 설계 시 고려할 것들](http://bit.ly/2RBnawK)
