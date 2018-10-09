@@ -41,3 +41,5 @@ tags: ["etc"]
 - [정적 분석으로 자바스크립트 코드의 오류와 코드 스멜 찾기 1편](http://bit.ly/2OKquH7)
 - [Material 디자인의 밀도에 대한 설명](http://bit.ly/2C4N0nx)
 - [키오스크 UI 설계 시 고려할 것들](http://bit.ly/2RBnawK)
+- [웹디자인 참고 사이트 모음](http://bit.ly/2A12w2e)
+- [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://bit.ly/2Rz7lql)
