@@ -46,3 +46,12 @@ tags: ["etc"]
 - [GIF를 쓰지 말아야 하는 이유 - Vingle 개발블로그](http://bit.ly/2PlWEpr)
 - [Tinder의 프로그래시브 웹 앱 성능 케이스 스터디](http://bit.ly/2IMxbmH)
 - [자바스크립트는 어떻게 작동하는가: 웹소켓 및 HTTP/2 SSE](http://bit.ly/2yoQTQO)
+
+### 2018년 10월 10일
+- [데이터 사이언스 인터뷰 질문 모음집](http://bit.ly/2Ea19m7)
+- [(영문) Top 10 DevOps 블로그와 웹사이트 2018](http://bit.ly/2REfeLe)
+- [팀에서 깃헙 Enterprise Plan을 써야하는 이유
+(Developer Plan과의 비교)](http://bit.ly/2RFSslU)
+- [왜 43%의 프론트엔드 개발자들은 Vue.js를 배우고 싶어하나?](http://bit.ly/2pI9vap)
+- [RequireJS 사용 방법 정리](http://bit.ly/2pMcwGQ)
+- [티몬의 단계별 테스트 접근과 협업](http://bit.ly/2RFgz4y)
