@@ -72,3 +72,16 @@ tags: ["etc"]
 - [더 좋은 코드를 위한 12가지 체크리스트 - 조엘 테스트](http://bit.ly/2pK4zle)
 - [10배 뛰어난 개발자 되기 (번역글)](http://bit.ly/2OgL1E0)
 - [야생의 땅 듀랑고의 데이터 엔지니어링 이야기: 로그 시스템 구축 경험 공유 (슬라이드)](http://bit.ly/2yrRDEx)
+
+### 2018년 10월 11일
+- [모바일 웹사이트에 구글 AMP 적용하기](http://bit.ly/2yd7Y0B)
+- [let과 var의 성능 비교](http://bit.ly/2pKOP1l)
+- [영상을 통한 자료구조와 알고리즘의 시각화 (한국어판)](http://bit.ly/2yvC9Q9)
+- [2017년의 위험한 디자인 트렌드](http://bit.ly/2ydy7MJ)
+- [주니어 개발자가 외칩니다, "Hello, System Architecture!"](http://bit.ly/2pO8AFk)
+- [AWS 서버 이중화하기](http://bit.ly/2A30WwE)
+- [GO 언어를 처음 접하는 사람들을 위한 GOLANG 안내서](http://bit.ly/2pKjqME)
+- [10가지, 우리가 저지르고있는 작은 디자인 실수](http://bit.ly/2IRtpZu)
+- [REST 기반의 간단한 분산 트랜잭션 구현 - 1편](http://bit.ly/2OiOFxb)
+- [Git 브랜칭 실습사이트! (한국어판)](http://bit.ly/2NzKcRa)
+- [모바일 웹사이트에 구글 AMP 적용하기](http://bit.ly/2yd7Y0B)
