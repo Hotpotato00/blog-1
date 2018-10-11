@@ -2,14 +2,13 @@
 draft: false
 date: 2018-10-07T20:53:47+09:00
 title: "{ 출퇴근길 개발 읽기 } 기록소"
-slug: "DevComuter"
+slug: "DevCommuter"
 categories: ["2018", "etc"]
 tags: ["etc"]
 ---
 
 >[{ 출퇴근길 개발 읽기 } 오픈채팅방](http://bit.ly/2QxBmW5)에 올라온 컨텐츠 기록소  
 단톡방에 새로 들어오신 분들은 이 곳에서 이전 컨텐츠를 확인하실 수 있습니다. 
-
 
 
 # { History }
