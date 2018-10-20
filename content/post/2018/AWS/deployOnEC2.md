@@ -4,7 +4,7 @@ date: 2018-10-07T23:30:21+09:00
 title: "AWS EC2 서버에 Java 프로젝트 배포/재배포"
 slug: "DeployOnEC2"
 categories: ["2018", "AWS"]
-tags: ["AWS", "deploy"]
+tags: ["AWS", "deploy", "java"]
 ---
 
 >회사 고객센터용 카카오톡 챗봇을 만들어 AWS EC2 서버에 배포하기 위해  
