@@ -3,7 +3,7 @@ draft: false
 date: 2018-08-24T04:39:51+09:00
 title: "애쉬튼 커쳐의 지름길 이론"
 slug: "Ashton"
-categories: ["2018", "essay"]
+categories: ["2018", "생각정리"]
 tags: ["essay"]
 ---
 **2014년 12월 5일**

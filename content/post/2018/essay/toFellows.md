@@ -3,7 +3,7 @@ draft: false
 date: 2018-09-11T12:45:00+09:00
 title: "퇴사한 회사 동기들에게 쓴 글"
 slug: "ToFellows"
-categories: ["2018", "essay"]
+categories: ["2018", "생각정리"]
 tags: ["essay"]
 ---
 >퇴사와 결혼이 논쟁거리가 된  

@@ -3,7 +3,7 @@ draft: false
 date: 2018-08-24T04:21:13+09:00
 title: "계획하지 않는 삶"
 slug: "WithoutPlan"
-categories: ["2018", "essay"]
+categories: ["2018", "생각정리"]
 tags: ["essay"]
 ---
 > 2014년 대학교 3학년때 쓴 글인데  

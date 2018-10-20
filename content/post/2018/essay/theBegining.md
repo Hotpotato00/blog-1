@@ -3,7 +3,7 @@ draft: true
 date: 2018-10-05T00:47:42+09:00
 title: "첫 삽 뜬 날"
 slug: "TheBegining"
-categories: ["2018", "essay"]
+categories: ["2018", "생각정리"]
 tags: ["essay"]
 ---
 >개발자가 되기로 마음먹고 첫 행동을 한 날  

@@ -3,7 +3,7 @@ draft: false
 date: 2018-08-24T03:57:22+09:00
 title: "2016년 발리 서핑"
 slug: "Bali"
-categories: ["2018", "essay"]
+categories: ["2018", "생각정리"]
 tags: ["essay"]
 ---
 >발리에서 30일간 서핑하던 어느 새벽

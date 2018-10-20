@@ -3,7 +3,7 @@ draft: false
 date: 2018-10-14T12:49:22+09:00
 title: "286컴퓨터와 도트프린터"
 slug: "Father"
-categories: ["2018", "essay"]
+categories: ["2018", "생각정리"]
 tags: ["essay"]
 ---
 >2018년 10월 14일 성주 외삼촌댁에서

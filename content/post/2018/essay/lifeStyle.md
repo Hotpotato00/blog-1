@@ -3,7 +3,7 @@ draft: false
 date: 2018-08-28T01:53:49+09:00
 title: "삶의 모습"
 slug: "LifeStyle"
-categories: ["2018", "essay"]
+categories: ["2018", "생각정리"]
 tags: ["essay"]
 ---
 

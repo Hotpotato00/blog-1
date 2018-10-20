@@ -3,7 +3,7 @@ draft: false
 date: 2018-09-18T04:00:42+09:00
 title: "내 우주가 생긴 날"
 slug: "MyUniverse"
-categories: ["2018", "essay"]
+categories: ["2018", "생각정리"]
 tags: ["essay"]
 ---
 >10년 만에 내 방이 생긴 2016년 어느 겨울날

@@ -3,7 +3,7 @@ draft: false
 date: 2018-08-24T04:56:25+09:00
 title: "뜨거운 침대"
 slug: "HotBed"
-categories: ["2018", "essay"]
+categories: ["2018", "생각정리"]
 tags: ["essay"]
 ---
 
