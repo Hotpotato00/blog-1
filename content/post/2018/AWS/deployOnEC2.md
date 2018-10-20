@@ -3,7 +3,7 @@ draft: false
 date: 2018-10-07T23:30:21+09:00
 title: "AWS EC2 서버에 Java 프로젝트 배포/재배포"
 slug: "DeployOnEC2"
-categories: ["2018", "AWS", "DevOps"]
+categories: ["2018", "AWS"]
 tags: ["AWS", "deploy"]
 ---
 
