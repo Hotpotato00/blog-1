@@ -3,7 +3,7 @@ draft: false
 date: 2018-10-07T18:21:44+09:00
 title: "Java 문자열 연결방법 비교"
 slug: "StringConcat"
-categories: ["2018", "java"]
+categories: ["2018", "ETC"]
 tags: ["java"]
 ---
 
