@@ -130,27 +130,27 @@ tags: ["git"]
 
 # 3. Pull Request (이하 PR)
 
-### 3.1. `개인 원격 저장소 feature 브랜치`에서 `프로젝트 저장소 develop 브랜치`로 ***Pull Request*** (Bitbucket에서)
+#### 3.1. `개인 원격 저장소 feature 브랜치`에서 `프로젝트 저장소 develop 브랜치`로 ***Pull Request*** (Bitbucket에서)
   - Pull Request 시, 어떤 Issue에 대한 PR인지 작성해야한다.
   - CI/CD 도구 활용
   - Merge 되면 `feature` 브랜치를 close 하도록 체크
     
 # 4. PR Review
 
-### 4.1. 관리자는 코드 리뷰 후 `프로젝트 저장소`의 `develop` 브랜치로 ***Merge*** 혹은 ***Decline*** (Bitbucket에서)
+#### 4.1. 관리자는 코드 리뷰 후 `프로젝트 저장소`의 `develop` 브랜치로 ***Merge*** 혹은 ***Decline*** (Bitbucket에서)
 
-### 4.2. Merge 된 이후에 `feature` 브랜치가 close 되도록 설정 안했다면 직접 브랜치 삭제 
+#### 4.2. Merge 된 이후에 `feature` 브랜치가 close 되도록 설정 안했다면 직접 브랜치 삭제 
 - `$ git branch -d ryanwork1`
 
 # 5. Issue 반영
 
-### 5.1. Bitbucket에서 Issue close 혹은 PR과 연동하여 자동으로 Issue close.(Bitbucket에서는 PR과 연동불가)
+#### 5.1. Bitbucket에서 Issue close 혹은 PR과 연동하여 자동으로 Issue close.(Bitbucket에서는 PR과 연동불가)
 
-### 5.2. Trello 이슈 카드 이동
+#### 5.2. Trello 이슈 카드 이동
 
 # 6. 저장소 Update
 
-### 6.1. 팀원들에 의해 업데이트된 `프로젝트 저장소`의 `develop` 브랜치로 부터 `개인 local 저장소`의 `develop` 브랜치 동기화. 
+#### 6.1. 팀원들에 의해 업데이트된 `프로젝트 저장소`의 `develop` 브랜치로 부터 `개인 local 저장소`의 `develop` 브랜치 동기화. 
     - 우선 HEAD가 `develop` 브랜치에 위치하도록 `$ git checkout develop`
     - `$ git fetch 프로젝트저장소(별명) develop`
     - `$ git branch -a` 로 브랜치 확인
@@ -158,11 +158,11 @@ tags: ["git"]
     - 또는 merge 대신 `$ git rebase 프로젝트저장소(별명)/develop`
     - 또는 Pull로 한번에 동기화 `$ git pull 프로젝트저장소(별명) develop`
 
-### 6.2. 이후 작업은 다시 `1.1.`부터 진행
+#### 6.2. 이후 작업은 다시 `1.1.`부터 진행
 
 -----------------------------------
     
-### (번외) Clone 받은 프로젝트 Eclipes에서 열기
+## (번외) Clone 받은 프로젝트 Eclipes에서 열기
 >[이 글](https://github.com/Integerous/TIL/blob/master/Tools/Eclipse.md) 참고.
 
 ## * Reference
