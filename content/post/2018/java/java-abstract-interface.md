@@ -2,11 +2,12 @@
 draft: false
 date: 2018-10-03T12:33:20+09:00
 title: "자바의 정석 - 추상클래스, 인터페이스"
-slug: "180924"
-categories: ["2018", "early-bird"]
-tags: ["early-bird", "java"]
+slug: "java-abstract-interface"
+categories: ["2018", "java"]
+tags: ["java"]
 ---
->2018년 9월 24일~25일 아침공부 통합 정리
+
+>자바의 정석(남궁성 저) 학습내용 정리
 
 ## 1. 추상 클래스 (Abstract class)
 - 미완성 메소드(추상메소드)를 포함하고 있다는 것을 제외하고는 일반클래스와 같다.

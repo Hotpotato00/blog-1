@@ -2,11 +2,12 @@
 draft: false
 date: 2018-10-03T11:43:34+09:00
 title: "자바의 정석 - 다형성(Polymorphism)"
-slug: "180923"
-categories: ["2018", "early-bird"]
-tags: ["early-bird", "java"]
+slug: "java-polymorphism"
+categories: ["2018", "java"]
+tags: ["java"]
 ---
->2018년 9월 23일 아침공부
+
+>자바의 정석(남궁성 저) 학습내용 정리
 
 ## 1. 다형성 (Polymorphism)
 - Java에서는 한 타입의 참조변수로 여러 타입의 객체를 참조할 수 있도록 하는 것.

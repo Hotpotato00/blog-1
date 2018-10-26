@@ -2,12 +2,12 @@
 draft: false
 date: 2018-10-03T14:01:53+09:00
 title: "자바의 정석 - 날짜와 시간(Calendar와 Date, java.time패키지)"
-slug: "181001"
-categories: ["2018", "early-bird"]
-tags: ["early-bird", "java"]
+slug: "java-calendar-date"
+categories: ["2018", "java"]
+tags: ["java"]
 ---
 
->2018년 10월 1일~5일 아침공부 통합 정리
+>자바의 정석(남궁성 저) 학습내용 정리
 
 ## 1. Calendar 와 Date
 - `Date`는 JDK1.0, `Calendar`는 JDK1.1 부터 제공되었다.

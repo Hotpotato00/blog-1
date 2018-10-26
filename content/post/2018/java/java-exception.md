@@ -2,11 +2,12 @@
 draft: false
 date: 2018-10-03T13:20:33+09:00
 title: "자바의 정석 - 예외 처리(Exception handling)"
-slug: "180926"
-categories: ["2018", "early-bird"]
-tags: ["early-bird", "java"]
+slug: "java-exception"
+categories: ["2018", "java"]
+tags: ["java"]
 ---
->2018년 9월 26일 아침공부
+
+>자바의 정석(남궁성 저) 학습내용 정리
 
 ## 1. 예외 처리 (Exception handling)
 - 에러는 메모리 부족(OutOfMemoryError)이나 스택오버플로우(StackOverFlowError)처럼 일단 발생하면 복구할 수 없는 심각한 오류

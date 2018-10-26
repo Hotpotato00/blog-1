@@ -2,11 +2,12 @@
 draft: false
 date: 2018-10-25T00:28:04+09:00
 title: "자바의 정석 - 지네릭스(Generics)"
-slug: "181023"
-categories: ["2018", "early-bird"]
-tags: ["early-bird", "java"]
+slug: "java-generics"
+categories: ["2018", "java"]
+tags: ["java"]
 ---
->2018년 10월 22일~23일 아침공부 통합 정리
+
+>자바의 정석(남궁성 저) 학습내용 정리
 
 ## 1. 지네릭스(Generics)
 >지네릭스는 다양한 타입의 객체들을 다루는 메서드나 컬렉션 클래스에 컴파일 시의 타입 체크를 해주는 기능  

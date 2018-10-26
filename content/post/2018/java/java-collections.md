@@ -2,12 +2,12 @@
 draft: false
 date: 2018-10-07T10:02:58+09:00
 title: "자바의 정석 - 컬렉션 프레임웍(Collections Framework)"
-slug: "181006"
-categories: ["2018", "early-bird"]
-tags: ["early-bird", "java"]
+slug: "java-collections"
+categories: ["2018", "java"]
+tags: ["java"]
 ---
 
->2018년 10월 6일~20일 아침공부 통합 정리
+>자바의 정석(남궁성 저) 학습내용 정리
 
 # 1. 컬렉션 프레임웍 (Collections Framework)
 >'데이터 그룹을 다루고 표현하기 위한 단일화된 구조' - Java API문서  

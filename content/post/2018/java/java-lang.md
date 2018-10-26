@@ -2,11 +2,12 @@
 draft: false
 date: 2018-10-03T13:26:15+09:00
 title: "자바의 정석 - java.lang 패키지"
-slug: "180927"
-categories: ["2018", "early-bird"]
-tags: ["early-bird", "java"]
+slug: "java-lang"
+categories: ["2018", "java"]
+tags: ["java"]
 ---
->2018년 9월 27일~30일 아침공부 통합 정리
+
+>자바의 정석(남궁성 저) 학습내용 정리
 
 ## 1. java.lang 패키지
 - java.lang 패키지의 클래스들은 import문 없이도 사용 가능하다.
