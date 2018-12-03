@@ -30,6 +30,8 @@ toc = "true"
     instagram   = "ryemha_"
 
 [params]
+    custom_css = ["css/single.css"]
+
     [params.sharebutton]
         # If you want to display share buttons set these
         # This is Optional values

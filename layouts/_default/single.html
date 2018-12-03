@@ -1,0 +1,146 @@
+<!-- {{ partial "header.html" . }} -->
+
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KZXLS88');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    {{ .Hugo.Generator }}
+    <link rel="shortcut icon" href="{{ "/images/favicon.ico" | relURL }}">
+    <link href="{{ or .RSSLink .Site.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:700i" rel="stylesheet">
+    <!-- google_analytics -->
+    <script src="https://apis.google.com/js/platform.js" async defer>{lang: 'ja'}</script>
+    <!-- syntax highlight -->
+    <link rel="stylesheet" href="https://yandex.st/highlightjs/8.0/styles/default.min.css">
+    <script src="https://yandex.st/highlightjs/8.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    {{ if .Site.Params.mathjax }}
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        displayMath: [['$$','$$'], ['\[','\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+        TeX: { equationNumbers: { autoNumber: "AMS" },
+             extensions: ["AMSmath.js", "AMSsymbols.js"] }
+      }
+    });
+    </script>
+    <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    {{ end }}
+    <link rel="stylesheet" type="text/css" href="{{ "/css/single.css" | relURL }}">
+    <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZXLS88"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+    <div id="wrap">
+      {{ template "_internal/google_analytics.html" . }}
+      <header class="site-header">
+        <div class="site-header-left">
+          <a class="site-header-title" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        </div>
+      </header>
+      <div class="container">
+        <div id="main">
+
+
+<!-- ========== Main 시작 ========== -->
+
+<div class="article">
+  <header>
+    <div class="article-header">
+      <h1>{{ .Title }}</h1>
+      <div class="article-meta">
+        <span class="posttime">{{ .Date.Format "2006/01/02" }}</span>
+        <!-- <span class="posttime">최종수정일 : {{ .Lastmod.Format "2006/01/02" }}</span> -->
+        <!-- <span class="posttime">글자수 : {{ .WordCount }} 자</span> -->
+        {{ partial "tags.html" . }}
+      </div>
+    </div>
+    <!-- {{ partial "share.html" . }} -->
+  </header>
+  <div class="content">
+    {{ .Content }}
+  </div>
+  <footer>
+    <div class="article-footer">
+      <!-- {{ partial "tags.html" . }} -->
+
+      <!-- {{ with .Site.Params.adsense.content }}
+      <div class="adsense">
+        <span class="sponsor-label">Sponsored link</span>
+        {{ partial . }}
+      </div>
+      {{ end }} -->
+      
+      <!-- {{ partial "share.html" . }} -->
+      <!-- {{ template "_internal/disqus.html" . }} -->
+      {{ if or .Prev .Next }}
+      <div id="pagenavigation-next-prev">
+        {{ if .Next }}
+        <div id="pagenavigation-next">
+          <span class="pagenav-label">< 이전 글</span>
+          <a href="{{ .Next.Permalink }}">{{ .Next.Title }}</a>
+        </div>
+        {{ end }}
+        {{ if .Prev }}
+        <div id="pagenavigation-prev">
+          <span class="pagenav-label">다음 글 ></span>
+          <a href="{{ .Prev.Permalink }}">{{ .Prev.Title }}</a>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+
+    <script src="https://utteranc.es/client.js"
+    repo="integerous/blog-comments"
+    issue-term="pathname"
+    crossorigin="anonymous"
+    async>
+    </script>
+  </footer>
+</div><!-- .article -->
+
+<!-- ========== Main 끝 ========== -->
+
+
+<!-- {{ partial "footer.html" . }} -->
+</div><!-- #main-->
+<!-- {{ partial "sidebar.html" . }} -->
+</div><!-- .container -->
+<footer>
+<div id="site-footer-wrap">
+  <div id="site-footer">
+    <span>Powered by <a href="https://gohugo.io/">Hugo</a>.</span>
+    <span>
+      {{ if .Site.Copyright }}
+      {{ .Site.Copyright | markdownify}}
+      {{ else }}
+      Copyright (c) {{ .Site.LastChange.Format "2006" }}, <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+      {{ end }}
+    </span>
+  </div>
+</div>
+</footer>
+</div><!-- #wrap -->
+</body>
+</html>
