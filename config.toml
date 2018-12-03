@@ -1,6 +1,6 @@
 baseurl = "http://integerous.github.io/"
 languageCode = "ko-kr"
-title = "Integerous Devlog"
+title = "Integerous DevLog"
 theme= "hugo-theme-geppaku"
 googleAnalytics = "UA-126908369-1"
 disqusShortname = ""
@@ -20,7 +20,7 @@ toc = "true"
 [author]
     # If you want to display author information set these
     # This is Optional values
-    name = "Jeongsu Han (Ryan)"
+    name = "Jeongsu Han"
 
     # Please set account ids
     # This is Optional values
