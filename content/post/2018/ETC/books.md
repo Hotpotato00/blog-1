@@ -6,6 +6,7 @@ slug: "Books"
 categories: ["2018", "etc"]
 tags: ["book"]
 ---
+<img src="https://github.com/Integerous/TIL/blob/master/ETC/images/books.jpg?raw=true" width="70%" height="70%">
 
 >2018년 12월 11일 기준
 
@@ -89,3 +90,5 @@ tags: ["book"]
 41. 서블릿 컨테이너의 이해
 42. You don't know js 시리즈
 43. 초보자를 위한 Node.js 200제
+
+
