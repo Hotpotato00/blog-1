@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2018-12-15T19:17:14+09:00
+date: 2018-12-16T19:17:14+09:00
 title: "체대 출신 개발자의 2018년 회고"
 slug: "Memoirs2018"
 categories: ["2018", "essay"]
