@@ -41,13 +41,13 @@ tags: ["essay"]
 
 # 2. 2018년 계획표
 아래의 표는 개발공부를 막 시작한 2017년 12월 30일에 다른 개발자의 계획표를 참고해서 만든 `2018년 계획표`인데,  
+
+<img src="https://github.com/Integerous/TIL/blob/master/ETC/images/planner.png?raw=true">
+
 볼 때 마다... 
 
 <img src="https://github.com/Integerous/TIL/blob/master/ETC/images/lee.gif?raw=true" width="60%" height="60%">  
 (으악 안돼)
-
-<img src="https://github.com/Integerous/TIL/blob/master/ETC/images/planner.png?raw=true">
-
 
 특히 프로그래밍 언어(PL) 부분을 보면 내가 개발에 얼마나 무지했는지 알 수 있다..  
 
